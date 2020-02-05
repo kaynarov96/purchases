@@ -3,4 +3,4 @@ export class Purchase {
         this.amount = amount;
         this.category = category;
     }
-}
+} 

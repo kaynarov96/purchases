@@ -3,7 +3,7 @@ class Purchases {
         this.value = value;
         this.category = category;
     }
-};
+}; 
 
 const rootEl = document.getElementById('root');
 
